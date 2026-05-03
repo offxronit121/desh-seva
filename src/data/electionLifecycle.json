@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "phase": "Delimitation",
+    "title": "Drawing the Lines",
+    "icon": "Map",
+    "points": [
+      "Redrawing boundaries of assembly & Lok Sabha constituencies.",
+      "Done by the Delimitation Commission.",
+      "Ensures equal representation based on population changes."
+    ],
+    "quiz": {
+      "question": "Does Delimitation happen before every single election?",
+      "options": ["Yes, always", "No, it is done periodically by a commission"],
+      "correct": 1
+    }
+  },
+  {
+    "id": 2,
+    "phase": "Voter List Update",
+    "title": "Getting on the Roll",
+    "icon": "Users",
+    "points": [
+      "Revision of Electoral Rolls happens 6 months prior.",
+      "Additions (18+ turning eligible) and deletions (deceased).",
+      "Forms 6 (Registration) and Form 8 (Correction) are used."
+    ],
+    "quiz": {
+      "question": "Which form should a new voter fill out?",
+      "options": ["Form 8", "Form 6"],
+      "correct": 1
+    }
+  },
+  {
+    "id": 3,
+    "phase": "Election Announcement",
+    "title": "Sounding the Bugle",
+    "icon": "Mic",
+    "points": [
+      "ECI Press Conference announcing dates.",
+      "Model Code of Conduct (MCC) comes into effect immediately.",
+      "Lays down rules for governments, candidates, and parties."
+    ],
+    "quiz": {
+      "question": "When does the MCC come into effect?",
+      "options": ["Immediately upon announcement", "One week before polling"],
+      "correct": 0
+    }
+  },
+  {
+    "id": 4,
+    "phase": "Model Code of Conduct (MCC)",
+    "title": "The Referee's Rulebook",
+    "icon": "BookOpen",
+    "points": [
+      "Ensures level playing field during campaigning.",
+      "Governments cannot announce new schemes or projects.",
+      "Strict action against hate speech and bribing voters."
+    ],
+    "quiz": {
+      "question": "Can the ruling party announce a new freebie scheme during MCC?",
+      "options": ["Yes", "No"],
+      "correct": 1
+    }
+  },
+  {
+    "id": 5,
+    "phase": "Nominations & Scrutiny",
+    "title": "Throwing the Hat in the Ring",
+    "icon": "FileSignature",
+    "points": [
+      "Candidates file papers detailing assets and criminal records.",
+      "Returning Officer scrutinizes the papers for validity.",
+      "Candidates have a window to withdraw their nomination."
+    ],
+    "quiz": {
+      "question": "Do candidates have to declare their criminal records?",
+      "options": ["Yes, it is mandatory", "No, it is optional"],
+      "correct": 0
+    }
+  },
+  {
+    "id": 6,
+    "phase": "Campaigning",
+    "title": "Winning Hearts & Minds",
+    "icon": "Megaphone",
+    "points": [
+      "Rallies, manifestos, and door-to-door visits.",
+      "Strict expenditure limits are enforced by ECI.",
+      "Ends 48 hours before polling (The Silence Period)."
+    ],
+    "quiz": {
+      "question": "What is the 'Silence Period'?",
+      "options": ["The 48 hours right before voting ends", "A period where no one can speak to the media"],
+      "correct": 0
+    }
+  },
+  {
+    "id": 7,
+    "phase": "Polling",
+    "title": "The Power of Ink",
+    "icon": "Vote",
+    "points": [
+      "Voters use EVMs to cast their vote.",
+      "VVPAT provides a physical paper trail for verification.",
+      "Inked finger is the ultimate symbol of democratic participation."
+    ],
+    "quiz": {
+      "question": "What does VVPAT stand for?",
+      "options": ["Voter Verifiable Paper Audit Trail", "Voting Verification Panel And Tool"],
+      "correct": 0
+    }
+  },
+  {
+    "id": 8,
+    "phase": "Counting",
+    "title": "The Moment of Truth",
+    "icon": "Calculator",
+    "points": [
+      "Simultaneous counting for all phases happens on a set date.",
+      "EVMs are opened in the presence of candidate agents.",
+      "First-Past-The-Post system determines the winner."
+    ],
+    "quiz": {
+      "question": "In the First-Past-The-Post system, does a candidate need 50%+ votes to win?",
+      "options": ["Yes", "No, just more than anyone else"],
+      "correct": 1
+    }
+  },
+  {
+    "id": 9,
+    "phase": "Result Declaration",
+    "title": "A New Beginning",
+    "icon": "Award",
+    "points": [
+      "Returning Officer gives the winning certificate.",
+      "The party/coalition with a majority forms the government.",
+      "The democratic cycle begins anew."
+    ],
+    "quiz": {
+      "question": "Who gives the winning certificate to the candidate?",
+      "options": ["The Prime Minister", "The Returning Officer"],
+      "correct": 1
+    }
+  }
+]
