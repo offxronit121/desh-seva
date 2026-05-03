@@ -1,19 +1,20 @@
 # Desh Seva App
 
-An interactive election education platform and AI assistant designed to prepare citizens for the Indian democratic process through contextual guidance, gamification, and interactive visualization tools.
+An interactive, comprehensive election education platform and AI assistant designed to prepare citizens for the Indian democratic process. It provides contextual guidance, gamified learning, and interactive visualization tools to make learning about elections engaging and accessible.
 
 ## 🚀 Live Demo
-**[Insert Your Live Server Link Here]** *(Please replace this placeholder with your actual deployed URL)*
+**[Click here to view the Live Application](https://desh-seva-858067523048.us-central1.run.app/)** 
 
-## 🌟 Features
-- **Desh Seva AI Assistant:** Contextual guidance and answers to election-related queries.
-- **Phase Flashcards:** A gamification module to educate users on different election phases.
-- **Timeline Tracker:** Visual tracking of the election lifecycle.
-- **Know Your Candidate:** Tools to learn more about the representatives.
-- **EVM Simulator:** Hands-on virtual experience with Electronic Voting Machines.
-- **Myth-Busting Content:** Combating misinformation regarding the democratic process.
+## 🌟 Features in Detail
 
-## 📊 Project Flowchart
+- **Desh Seva AI Assistant:** A specialized contextual chatbot that helps users navigate complex election-related queries in real-time.
+- **Phase Flashcards:** A gamification module utilizing interactive flashcards to educate users on different election phases, testing their knowledge dynamically.
+- **Timeline Tracker:** A visual, step-by-step tracking system of the entire election lifecycle, from delimitation to the final result declaration.
+- **Know Your Candidate:** Integrated tools and resources to help voters learn more about their local representatives and their track records.
+- **EVM Simulator:** A hands-on, virtual experience with Electronic Voting Machines to familiarize first-time voters with the physical process of casting a vote.
+- **Myth-Busting Content:** Dedicated sections aimed at combating misinformation and clarifying common misconceptions regarding the democratic process.
+
+## 📊 Project Architecture & Flow
 
 ```mermaid
 graph TD;
@@ -30,7 +31,7 @@ graph TD;
 
 ## 📈 Election Lifecycle Graph
 
-Below is a representation of the election phases covered in the timeline tracker:
+Below is the detailed timeline structure used to educate voters on the phases of the election:
 
 ```mermaid
 gantt
@@ -57,9 +58,10 @@ gantt
 ```
 
 ## 🛠️ Technology Stack
-- **Frontend:** React, Vite
-- **Styling:** CSS
+- **Frontend Framework:** React 19, Vite
+- **Styling:** CSS3 (Custom responsive design)
 - **Icons:** Lucide React
+- **Deployment & Server:** Docker, Nginx, Google Cloud Run (based on the live server URL)
 
 ## 📦 Getting Started
 
@@ -70,8 +72,8 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 1. **Clone the repository:**
    ```bash
-   git clone <YOUR_GITHUB_REPO_URL>
-   cd current
+   git clone https://github.com/offxronit121/desh-seva.git
+   cd desh-seva
    ```
 
 2. **Install dependencies:**
@@ -97,7 +99,10 @@ npm run preview
 ```
 
 ## 🤝 Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests.
+Contributions are welcome! Feel free to open issues or submit pull requests to help improve the project.
 
 ## 📝 License
 This project is open-source and available under the [MIT License](LICENSE).
+
+---
+**Author:** Gaurav Shiswar
