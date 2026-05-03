@@ -106,4 +106,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 **Author:** Gaurav Shiswar
-**Email:** [gshiswar@gmail.com]
+
+**Email:** gshiswar@gmail.com
